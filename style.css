@@ -1,0 +1,14 @@
+body{
+    background: url(images/bg.jpg)
+        no-repeat center center fixed;
+    background-size: cover;
+}
+div{
+    width: 400px;
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+    margin: 400px auto;
+    border-radius: 20px;
+    background-color: bisque;
+    color:dimgray;
+}
